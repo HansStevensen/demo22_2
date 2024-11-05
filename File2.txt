@@ -1,1 +1,3 @@
-ini isi dari file2
+ini isi dari file2"ini saya tulis di lokal"
+
+hai
